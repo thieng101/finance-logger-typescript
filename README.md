@@ -1,1 +1,1 @@
-# typescript-basics
+# finance-logger-typescript
